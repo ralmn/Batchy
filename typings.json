@@ -1,0 +1,15 @@
+{
+  "name": "betaseries-dash-batch",
+  "globalDependencies": {
+    "commander": "github:DefinitelyTyped/DefinitelyTyped/commander/commander.d.ts#42335c83eda05c7d7c007788629aa58d3b008fca",
+    "es6-promise": "github:DefinitelyTyped/DefinitelyTyped/es6-promise/es6-promise.d.ts#6eebd5e90a1cbd6b47b0705ba72dbcd5baf846f3",
+    "moment": "github:DefinitelyTyped/DefinitelyTyped/moment/moment.d.ts#edb64e4a35896510ce02b93c0bca5ec3878db738",
+    "moment-node": "github:DefinitelyTyped/DefinitelyTyped/moment/moment-node.d.ts#edb64e4a35896510ce02b93c0bca5ec3878db738",
+    "mongoose": "github:DefinitelyTyped/DefinitelyTyped/mongoose/mongoose.d.ts#6eebd5e90a1cbd6b47b0705ba72dbcd5baf846f3",
+    "node": "github:DefinitelyTyped/DefinitelyTyped/node/node.d.ts#42335c83eda05c7d7c007788629aa58d3b008fca",
+    "underscore": "github:DefinitelyTyped/DefinitelyTyped/underscore/underscore.d.ts#edb64e4a35896510ce02b93c0bca5ec3878db738"
+  },
+  "dependencies": {
+    "redis": "registry:npm/redis#0.12.1+20160729031738"
+  }
+}

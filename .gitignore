@@ -1,0 +1,9 @@
+*.js
+*.js.map
+.vscode/
+conf.json
+node_modules/
+logs/
+config.ts
+sitemap.xml
+typings/

@@ -1,0 +1,9 @@
+interface IConfiguration {
+    database : { url : string, user?: string, pass?: string }
+}
+(<any>global).mongoosasticOptions =  { hosts: [ '127.0.0.1:9874' ] };
+export let config : IConfiguration = {
+    database: {
+    'url' : 'mongodb://localhost:27017/batch'
+  },
+}

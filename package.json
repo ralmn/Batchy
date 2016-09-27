@@ -1,0 +1,31 @@
+{
+  "name": "betaseries-dash-batch",
+  "version": "1.0.0",
+  "description": "Batchy for BetaSeries Dashboard plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "ralmn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/ralmn/batchy/issues"
+  },
+  "homepage": "https://gitlab.com/ralmn/batchy#README",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "diacritic": "0.0.2",
+    "mkdirp": "^0.5.1",
+    "moment": "^2.13.0",
+    "mongoosastic": "^4.0.2",
+    "mongoose": "^4.3.5",
+    "redis": "^2.6.2",
+    "sitemap": "^1.5.0",
+    "underscore": "^1.8.3",
+    "wikipedia-js": "git://github.com/ralmn/wikipedia-js.git"
+  }
+}
