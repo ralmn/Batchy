@@ -1,5 +1,5 @@
 /// <reference path="config.d.ts" />
-/// <reference path="typings/tsd.d.ts" />
+/// <reference path="typings/index.d.ts" />
 
 import * as mongoose from 'mongoose';
 import * as fs from 'fs';
